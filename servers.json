@@ -6,5 +6,6 @@
   {"key": "pulsar_eu_de01", "latitude": 47.999008,"longitude": 7.842104, "name": "Freiburg, de.NBI-Cloud"},
   {"key": "pulsar_eu_de02", "latitude": 48.521637,"longitude": 9.057645, "name": "Tübingen, de.NBI-Cloud"},
   {"key": "pulsar_eu_de03", "latitude": 47.999008,"longitude": 7.842104, "name": "Freiburg, de.NBI-Cloud (GPU cluster)"},
-  {"key": "pulsar_eu_pt01", "latitude": 38.722252,"longitude": -9.139337, "name": "Portugal, Lisbon"}
+  {"key": "pulsar_eu_pt01", "latitude": 38.722252,"longitude": -9.139337, "name": "Portugal, Lisbon"},
+  {"key": "pulsar_eu_cz", "latitude": 50.087811,"longitude": 14.420460, "name": "Czech Republic, Praha CESNET"}
 ]
