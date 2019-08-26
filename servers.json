@@ -1,0 +1,10 @@
+[
+  {"key": "condor", "latitude": 46.802502, "longitude": 7.151280, "name": "Freiburg, de.NBI-Cloud"},
+  {"key": "pulsar_eu_bari", "latitude": 41.117142,"longitude": 16.871872, "name": "Italien, Bari"},
+  {"key": "pulsar_eu_be01", "latitude": 51.054340,"longitude": 3.717424, "name": "Belgium, Gent"},
+  {"key": "pulsar_eu_it01", "latitude": 41.117142,"longitude": 16.871872, "name": "Italien, Bari"},
+  {"key": "pulsar_eu_de01", "latitude": 46.802502,"longitude": 7.151280, "name": "Freiburg, de.NBI-Cloud"},
+  {"key": "pulsar_eu_de02", "latitude": 48.521637,"longitude": 9.057645, "name": "Tübingen, de.NBI-Cloud"},
+  {"key": "pulsar_eu_de03", "latitude": 46.802502,"longitude": 7.151280, "name": "Freiburg, de.NBI-Cloud"},
+  {"key": "pulsar_eu_pt01", "latitude": 38.722252,"longitude": -9.139337, "name": "Freiburg, de.NBI-Cloud"}
+]
