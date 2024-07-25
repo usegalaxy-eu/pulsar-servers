@@ -9,6 +9,9 @@
   {"key": "pulsar_eu_fr01", "latitude": 48.114167,"longitude": -1.680833, "name": "France, Rennes"},
   {"key": "pulsar_eu_pt01", "latitude": 38.722252,"longitude": -9.139337, "name": "Portugal, Lisbon"},
   {"key": "pulsar_eu_cz", "latitude": 50.087811,"longitude": 14.420460, "name": "Czech Republic, Praha CESNET"},
+  {"key": "pulsar_eu_cz01", "latitude": 50.087811,"longitude": 14.420460, "name": "Czech Republic, Praha CESNET"},
+  {"key": "pulsar_eu_tubitak01", "latitude": 40.784439,"longitude": 29.453529, "name": "Republic of Türkiye, Scientific and Technological Research Institution of Turkey"},
+  {"key": "pulsar_eu_sk01", "latitude": 46.056946,"longitude": 14.505752, "name": "Republic of Slovenia, University of Ljubljana"},
   {"key": "pulsar_eu_fi01", "latitude": 64.231101,"longitude": 27.701951, "name": "Finland, Kajaani CSC"},
   {"key": "pulsar_eu_uk01", "latitude": 51.572772,"longitude": -1.315923, "name": "United Kingdon, STFC Harwell"}
 ]
